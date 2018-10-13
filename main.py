@@ -5,6 +5,7 @@ from n_th_power import n_th_power
 import sys
 args = sys.argv
 
+print('Can you expect the answer of this code?')
 if len(args) < 3:
 	print("input as [python main.py a b]")
 	sys.exit()

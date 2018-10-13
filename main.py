@@ -2,6 +2,8 @@ from cal import sum_test
 from square import square
 import sys
 
+print("I am Kagawa.")
+
 args = sys.argv
 
 if len(args) < 3:

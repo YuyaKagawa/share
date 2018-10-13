@@ -3,6 +3,7 @@ from square import square
 from n_th_power import n_th_power
 
 import sys
+print("I am Kagawa.")
 args = sys.argv
 
 print('Can you expect the answer of this code?')

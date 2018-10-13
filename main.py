@@ -1,4 +1,4 @@
-from add import add
+from cal import sum_test
 from square import square
 a,b = list(map(int, input().split()))
 print('input', a, b)
